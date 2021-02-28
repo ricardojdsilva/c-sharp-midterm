@@ -1,0 +1,13 @@
+D:\Douglas\CSIS-1175-002-Introduc Program I\RicardoMid214_002\RicardoMid214_002\bin\Debug\netcoreapp3.1\RicardoMid214_002.exe
+D:\Douglas\CSIS-1175-002-Introduc Program I\RicardoMid214_002\RicardoMid214_002\bin\Debug\netcoreapp3.1\RicardoMid214_002.deps.json
+D:\Douglas\CSIS-1175-002-Introduc Program I\RicardoMid214_002\RicardoMid214_002\bin\Debug\netcoreapp3.1\RicardoMid214_002.runtimeconfig.json
+D:\Douglas\CSIS-1175-002-Introduc Program I\RicardoMid214_002\RicardoMid214_002\bin\Debug\netcoreapp3.1\RicardoMid214_002.runtimeconfig.dev.json
+D:\Douglas\CSIS-1175-002-Introduc Program I\RicardoMid214_002\RicardoMid214_002\bin\Debug\netcoreapp3.1\RicardoMid214_002.dll
+D:\Douglas\CSIS-1175-002-Introduc Program I\RicardoMid214_002\RicardoMid214_002\bin\Debug\netcoreapp3.1\RicardoMid214_002.pdb
+D:\Douglas\CSIS-1175-002-Introduc Program I\RicardoMid214_002\RicardoMid214_002\obj\Debug\netcoreapp3.1\RicardoMid214_002.AssemblyInfoInputs.cache
+D:\Douglas\CSIS-1175-002-Introduc Program I\RicardoMid214_002\RicardoMid214_002\obj\Debug\netcoreapp3.1\RicardoMid214_002.AssemblyInfo.cs
+D:\Douglas\CSIS-1175-002-Introduc Program I\RicardoMid214_002\RicardoMid214_002\obj\Debug\netcoreapp3.1\RicardoMid214_002.csproj.CoreCompileInputs.cache
+D:\Douglas\CSIS-1175-002-Introduc Program I\RicardoMid214_002\RicardoMid214_002\obj\Debug\netcoreapp3.1\RicardoMid214_002.dll
+D:\Douglas\CSIS-1175-002-Introduc Program I\RicardoMid214_002\RicardoMid214_002\obj\Debug\netcoreapp3.1\RicardoMid214_002.pdb
+D:\Douglas\CSIS-1175-002-Introduc Program I\RicardoMid214_002\RicardoMid214_002\obj\Debug\netcoreapp3.1\RicardoMid214_002.genruntimeconfig.cache
+D:\Douglas\CSIS-1175-002-Introduc Program I\RicardoMid214_002\RicardoMid214_002\obj\Debug\netcoreapp3.1\RicardoMid214_002.csprojAssemblyReference.cache
