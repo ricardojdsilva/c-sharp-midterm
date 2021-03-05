@@ -32,6 +32,7 @@ namespace RicardoMid214_002
         {
 
             int vInvoiceNumber;
+            String sInvoiceNumber;
             double vSaleAmout = 0.00;
             int vNumber_itens_purchase = 0;
             ;
@@ -39,28 +40,40 @@ namespace RicardoMid214_002
             Console.WriteLine();
             Console.WriteLine("Enter invoice number :");
 
-            vInvoiceNumber = Convert.ToInt32(Console.ReadLine());
+            sInvoiceNumber = Console.ReadLine();
 
 
             //Check if valid invoice number
             while (true)
             {
-                if (vInvoiceNumber < 1000 || vInvoiceNumber > 9000)
+                int i = 0;
+                //check if is number
+                if (int.TryParse(sInvoiceNumber, out i) == false) 
                 {
                     Console.WriteLine("Invalid data entered for invoice"); ;
                     Console.WriteLine("Enter a invoice number between 1000 and 9000 :");
-                    vInvoiceNumber = Convert.ToInt32(Console.ReadLine());
-                }
-                else
+                    sInvoiceNumber = Console.ReadLine();
+                } // check if the number still on the ranger
+                else if (Convert.ToInt32(sInvoiceNumber) < 1000 || Convert.ToInt32(sInvoiceNumber) > 9000)
                 {
 
+                    Console.WriteLine("Invalid data entered for invoice"); ;
+                    Console.WriteLine("Enter a invoice number between 1000 and 9000 :");
+                    sInvoiceNumber = Console.ReadLine();
+
+                } else
+                {
                     break;
                 }
             }
 
+
+            vInvoiceNumber = Convert.ToInt32(sInvoiceNumber);
+
             Console.WriteLine("Enter the sales amount :");
             vSaleAmout = Convert.ToDouble(Console.ReadLine());
 
+            // check if value is negative
             while (true)
             {
 
